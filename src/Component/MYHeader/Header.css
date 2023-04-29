@@ -1,0 +1,14 @@
+.MyHeader{
+    border: 2px solid red;
+    width: 80%;
+    height: 70px;
+    margin: 47px 0px 0px 142px;
+}
+.logo{
+    border: 2px solid red;
+    width: 171px;
+    height: 65px;
+}
+.MidHeader{
+    border:2px solid red;
+}
